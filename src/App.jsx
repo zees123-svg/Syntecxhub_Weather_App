@@ -1,6 +1,5 @@
 import Temperature from './components/temperature';
 import Highlights from './components/Highlights';
-import './App.css';
 import { useEffect, useState } from 'react';
 
 function App() {
