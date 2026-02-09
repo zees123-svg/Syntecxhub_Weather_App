@@ -15,3 +15,6 @@ Zeeshan Ramzan
 📧 [versatilezeeshan1708@gmail.com] <br>
 🔗 GitHub [https://github.com/zees123-svg] <br>
 🔗 LinkedIn [https://www.linkedin.com/in/zeeshan-ramzan-719845341/]
+
+## 🌍 Live Demo
+🔗 [https://zees123-svg.github.io/Syntecxhub_Weather_App/]
